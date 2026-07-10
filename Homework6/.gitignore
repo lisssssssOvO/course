@@ -1,0 +1,25 @@
+# Папки сборки
+bin/
+obj/
+
+# Файлы конфигурации с паролями
+appsettings.json
+appsettings.*.json
+
+# Файлы пользователя Visual Studio
+*.user
+*.suo
+*.userprefs
+
+# Папка .vs
+.vs/
+
+# Файлы резервных копий
+*.bak
+*.tmp
+
+# Логи
+*.log
+
+# Файлы IDE
+*.sln.ide
